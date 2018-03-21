@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4518f215ae949c4e9341e0353fc63b2, type: 3}
+  m_Name: UMotionResources
+  m_EditorClassIdentifier: 
+  resourcesList:
+  - Name: BoneModel
+    Reference: {fileID: 100000, guid: 0c3ae1317db8fce4b935d32447af7b14, type: 3}
+  - Name: JointModel
+    Reference: {fileID: 100000, guid: b16b13c9c7d96514391119b70df2bbca, type: 3}
+  - Name: StickJointModel
+    Reference: {fileID: 100000, guid: ed53c2dee9106494a81ec0e11a092c65, type: 3}
+  - Name: TransformModel
+    Reference: {fileID: 100000, guid: 91cac169ca8348e4da38a070cae41170, type: 3}
+  - Name: StickModel
+    Reference: {fileID: 100000, guid: dceed29efdc19c34ba95eb8615b6de71, type: 3}
+  - Name: PlaneModel
+    Reference: {fileID: 100000, guid: 73182a7cca5bd4246bd3876bee72147d, type: 3}
+  - Name: CharacterDirModel
+    Reference: {fileID: 100000, guid: 94cb25e564fb52b458a9aac0314175a7, type: 3}
+  - Name: LineMaterial
+    Reference: {fileID: 2100000, guid: afd7fb0c7cf8b2d4c9b6552df14f4f9d, type: 2}
+  - Name: DashedLineMaterial
+    Reference: {fileID: 2100000, guid: 8ae1b02da6e8d674c88c30c4250022c7, type: 2}
+  - Name: UMotionTabLogo
+    Reference: {fileID: 2800000, guid: 00d99e4cf26b52f478eb6bf369455882, type: 3}
+  - Name: UMotionTabLogoDark
+    Reference: {fileID: 2800000, guid: 19b7e0552df01a54282aced29a68d756, type: 3}
+  - Name: VertexParticleMaterial
+    Reference: {fileID: 2100000, guid: c06ccac00da3d994990d549bbe73774b, type: 2}
+  - Name: Manual
+    Reference: {fileID: 4900000, guid: 03551c0b797ca734097802d09c654c02, type: 3}
