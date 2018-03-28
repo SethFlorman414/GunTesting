@@ -136,15 +136,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e43787973e1c9654e93c1543cbdd628e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  aimDownSight: {x: 0, y: 0, z: 0}
-  hipFire: {x: -23.70135, y: -0.261732, z: -4.164304}
+  aim: {fileID: 222890064}
 --- !u!114 &222890062
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 222890059}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8dcfe3c0931787741a8cf69a10f2e9e6, type: 3}
   m_Name: 
@@ -152,8 +151,34 @@ MonoBehaviour:
   damage: 10
   range: 100
   fireRate: 5
+  bulletsLeft: 270
+  magazine: 30
+  reload: {fileID: 222890064}
   fpsCam: {fileID: 840916997}
   muzzleFlash: {fileID: 733366950}
+--- !u!114 &222890063
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 222890059}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 268783e867e37bc4ba7d903bc70adb81, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  range: 100
+  bulletsLeft: 200
+  bulletSpeed: 10
+  bulletsPerMag: 6
+  currentBullets: 0
+  shootDelay: 3
+  fireTimer: 0
+--- !u!95 &222890064 stripped
+Animator:
+  m_PrefabParentObject: {fileID: 9500000, guid: a0a7a81c787610b4e9d0b4ad24e2e638,
+    type: 3}
+  m_PrefabInternal: {fileID: 2005888296}
 --- !u!1001 &271581604
 Prefab:
   m_ObjectHideFlags: 0
@@ -5278,19 +5303,19 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400046, guid: b9b22e77e37077e4b9c586f2163aad1d, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.014074701
+      value: -0.014074708
       objectReference: {fileID: 0}
     - target: {fileID: 400046, guid: b9b22e77e37077e4b9c586f2163aad1d, type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.025984759
+      value: -0.025984773
       objectReference: {fileID: 0}
     - target: {fileID: 400082, guid: b9b22e77e37077e4b9c586f2163aad1d, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.0014951138
+      value: -0.0014951148
       objectReference: {fileID: 0}
     - target: {fileID: 400082, guid: b9b22e77e37077e4b9c586f2163aad1d, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.013168703
+      value: -0.01316871
       objectReference: {fileID: 0}
     - target: {fileID: 400112, guid: b9b22e77e37077e4b9c586f2163aad1d, type: 3}
       propertyPath: m_LocalRotation.y
@@ -7087,6 +7112,10 @@ Prefab:
       propertyPath: m_LocalPosition.z
       value: -16.090633
       objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: a0a7a81c787610b4e9d0b4ad24e2e638, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 6360fb419859ebb4e8d64cbc15f82b8d, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a0a7a81c787610b4e9d0b4ad24e2e638, type: 3}
   m_IsPrefabParent: 0

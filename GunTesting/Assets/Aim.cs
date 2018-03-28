@@ -6,11 +6,12 @@ public class Aim : MonoBehaviour {
 
     // Use this for initialization\
 
-    public Vector3 aimDownSight;
-    public Vector3 hipFire;
+    public Animator aim;
 
 
 	void Start () {
+
+        aim.GetComponent<Animator>();
 		
 	}
 	
@@ -18,6 +19,20 @@ public class Aim : MonoBehaviour {
 	void Update () {
 
 
-		
-	}
+
+        if (Input.GetButton("Fire2"))
+        {
+
+            aim.SetBool("Aiming", true);
+
+        }
+        else
+        {
+
+            aim.SetBool("Aiming", false);
+
+        }
+
+
+    }
 }

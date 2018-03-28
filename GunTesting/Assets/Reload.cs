@@ -16,7 +16,7 @@ public class Reload : MonoBehaviour {
 	void Update () {
 
 
-        if (Input.GetKey(KeyCode.R))
+        if (Input.GetKeyDown(KeyCode.R))
         {
 
             anim.SetBool("Reload", true);

@@ -19,7 +19,7 @@ MonoBehaviour:
     PoseToolPivotMode:
       valueInternal: 0
     PoseToolMode:
-      valueInternal: 1
+      valueInternal: 2
     PoseMirrorMode:
       valueInternal: 0
     ConfigMode:
@@ -29,15 +29,15 @@ MonoBehaviour:
     ConfigToolMode:
       valueInternal: 1
     OpenedClipIndex:
-      valueInternal: 2
+      valueInternal: 5
     SelectedFrame:
-      valueInternal: 70
+      valueInternal: 44
     TimelineViewMode:
       valueInternal: 0
     FramesScrollPosition:
-      valueInternal: -5.9757285
+      valueInternal: -14.253818
     FramesZoom:
-      valueInternal: 0.10964789
+      valueInternal: 0.10232936
     PropertiesScrollPosition:
       valueInternal: 0
     PropertiesZoom:
@@ -4211,7 +4211,7 @@ MonoBehaviour:
       valueInternal: 0
     LocalPositionChannelList:
     - CurrentValue:
-        valueInternal: -3.2197936
+        valueInternal: -8.675966
       ReferencePoseValue:
         valueInternal: -5.749237
       PoseValueList: []
@@ -4418,7 +4418,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: -7.1454954
+            valueInternal: -8.675966
           KeyList:
           - Frame:
               valueInternal: 0
@@ -4441,7 +4441,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 24
+              valueInternal: 23
             Value:
               valueInternal: -3.2197936
             InTangent:
@@ -4461,29 +4461,9 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 48
+              valueInternal: 44
             Value:
-              valueInternal: -3.2197936
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 70
-            Value:
-              valueInternal: -7.1454954
+              valueInternal: -8.675966
             InTangent:
               valueInternal: 0
             OutTangent:
@@ -4501,7 +4481,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: -5.1617675
+        valueInternal: 0.06702542
       ReferencePoseValue:
         valueInternal: 1.8338417
       PoseValueList: []
@@ -4708,7 +4688,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 0.067025185
+            valueInternal: 0.06702542
           KeyList:
           - Frame:
               valueInternal: 0
@@ -4731,27 +4711,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -5.1617675
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 48
+              valueInternal: 23
             Value:
               valueInternal: 0.06702566
             InTangent:
@@ -4771,9 +4731,9 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 70
+              valueInternal: 44
             Value:
-              valueInternal: 0.067025185
+              valueInternal: 0.06702542
             InTangent:
               valueInternal: 0
             OutTangent:
@@ -4791,7 +4751,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: -6.1067514
+        valueInternal: -3.5896444
       ReferencePoseValue:
         valueInternal: -5.9055166
       PoseValueList: []
@@ -4998,7 +4958,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: -2.905344
+            valueInternal: -3.5896444
           KeyList:
           - Frame:
               valueInternal: 0
@@ -5021,33 +4981,13 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -6.1067514
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 48
+              valueInternal: 23
             Value:
               valueInternal: -6.106751
             InTangent:
-              valueInternal: 0.0000000414641
+              valueInternal: 0.00000004334883
             OutTangent:
-              valueInternal: 0.0000000414641
+              valueInternal: 0.00000004334883
             BrokenTangents:
               valueInternal: 0
             InTangentMode:
@@ -5061,9 +5001,9 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 70
+              valueInternal: 44
             Value:
-              valueInternal: -2.905344
+              valueInternal: -3.5896444
             InTangent:
               valueInternal: 0
             OutTangent:
@@ -5180,26 +5120,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.47136486
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.58353317
       ReferencePoseValue:
@@ -5272,26 +5192,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0.58353317
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0.58353317
             InTangent:
@@ -5400,26 +5300,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.52032965
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.40812016
       ReferencePoseValue:
@@ -5510,26 +5390,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.40812016
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0
       ReferencePoseValue:
@@ -5602,26 +5462,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0
             InTangent:
@@ -9153,26 +8993,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -0.7325616
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.19846976
       ReferencePoseValue:
@@ -9325,26 +9145,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0.19846976
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0.19846976
             InTangent:
@@ -9533,26 +9333,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.28830227
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.58382
       ReferencePoseValue:
@@ -9723,26 +9503,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.58382
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0
       ReferencePoseValue:
@@ -9895,26 +9655,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0
             InTangent:
@@ -10352,26 +10092,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -3.384434
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 1.0775762
       ReferencePoseValue:
@@ -10542,26 +10262,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 1.0775762
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.687207
       ReferencePoseValue:
@@ -10714,26 +10414,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0.687207
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0.687207
             InTangent:
@@ -10932,26 +10612,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.04768653
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.6286383
       ReferencePoseValue:
@@ -11104,26 +10764,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0.6286383
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0.6286383
             InTangent:
@@ -11312,26 +10952,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.030671822
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.7756286
       ReferencePoseValue:
@@ -11502,26 +11122,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.7756286
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0
       ReferencePoseValue:
@@ -11674,26 +11274,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0
             InTangent:
@@ -12231,26 +11811,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.37290385
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.38795316
       ReferencePoseValue:
@@ -12403,26 +11963,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0.38795316
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0.38795316
             InTangent:
@@ -12611,26 +12151,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.061348766
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.8406376
       ReferencePoseValue:
@@ -12801,26 +12321,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.8406376
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0
       ReferencePoseValue:
@@ -12973,26 +12473,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0
             InTangent:
@@ -14029,26 +13509,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.09514907
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.78932923
       ReferencePoseValue:
@@ -14201,26 +13661,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0.78932923
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0.78932923
             InTangent:
@@ -14409,26 +13849,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.16429344
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.5838779
       ReferencePoseValue:
@@ -14599,26 +14019,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.5838779
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0
       ReferencePoseValue:
@@ -14771,26 +14171,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0
             InTangent:
@@ -15059,7 +14439,7 @@ MonoBehaviour:
       valueInternal: 0
     LocalPositionChannelList:
     - CurrentValue:
-        valueInternal: -1.2949284
+        valueInternal: -1.3124318
       ReferencePoseValue:
         valueInternal: -1.2175188
       PoseValueList: []
@@ -15126,7 +14506,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: -1.2949284
+            valueInternal: -1.3124318
           KeyList:
           - Frame:
               valueInternal: 0
@@ -15149,9 +14529,9 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 24
+              valueInternal: 44
             Value:
-              valueInternal: -1.2949284
+              valueInternal: -1.3124318
             InTangent:
               valueInternal: 0
             OutTangent:
@@ -15169,7 +14549,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: 0.51897424
+        valueInternal: 0.48354238
       ReferencePoseValue:
         valueInternal: 0.00000008940697
       PoseValueList: []
@@ -15236,7 +14616,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 0.51897424
+            valueInternal: 0.48354238
           KeyList:
           - Frame:
               valueInternal: 0
@@ -15259,9 +14639,9 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 24
+              valueInternal: 44
             Value:
-              valueInternal: 0.51897424
+              valueInternal: 0.48354238
             InTangent:
               valueInternal: 0
             OutTangent:
@@ -15279,7 +14659,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: -0.120676175
+        valueInternal: -0.26197234
       ReferencePoseValue:
         valueInternal: 0.000000037718564
       PoseValueList: []
@@ -15346,7 +14726,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: -0.120676175
+            valueInternal: -0.26197234
           KeyList:
           - Frame:
               valueInternal: 0
@@ -15369,9 +14749,9 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 24
+              valueInternal: 44
             Value:
-              valueInternal: -0.120676175
+              valueInternal: -0.26197234
             InTangent:
               valueInternal: 0
             OutTangent:
@@ -15399,7 +14779,7 @@ MonoBehaviour:
     - valueInternal: 0
     LocalRotationChannelList:
     - CurrentValue:
-        valueInternal: -0.11777784
+        valueInternal: -0.111813016
       ReferencePoseValue:
         valueInternal: 0.08075313
       PoseValueList: []
@@ -15466,7 +14846,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: -0.11777784
+            valueInternal: -0.111813016
           KeyList:
           - Frame:
               valueInternal: 0
@@ -15489,9 +14869,9 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 24
+              valueInternal: 44
             Value:
-              valueInternal: -0.11777784
+              valueInternal: -0.111813016
             InTangent:
               valueInternal: 0
             OutTangent:
@@ -15509,7 +14889,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: 0.068029344
+        valueInternal: -0.016828112
       ReferencePoseValue:
         valueInternal: 0.0034317446
       PoseValueList: []
@@ -15576,7 +14956,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 0.068029344
+            valueInternal: -0.016828112
           KeyList:
           - Frame:
               valueInternal: 0
@@ -15599,13 +14979,13 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 24
+              valueInternal: 44
             Value:
-              valueInternal: 0.068029344
+              valueInternal: -0.016828112
             InTangent:
-              valueInternal: 0
+              valueInternal: -0
             OutTangent:
-              valueInternal: 0
+              valueInternal: -0
             BrokenTangents:
               valueInternal: 1
             InTangentMode:
@@ -15619,7 +14999,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: 0.06464833
+        valueInternal: 0.07449094
       ReferencePoseValue:
         valueInternal: 0.03738538
       PoseValueList: []
@@ -15686,7 +15066,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 0.06464833
+            valueInternal: 0.07449094
           KeyList:
           - Frame:
               valueInternal: 0
@@ -15709,9 +15089,9 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 24
+              valueInternal: 44
             Value:
-              valueInternal: 0.06464833
+              valueInternal: 0.07449094
             InTangent:
               valueInternal: 0
             OutTangent:
@@ -15729,7 +15109,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: 0.9885958
+        valueInternal: 0.9907907
       ReferencePoseValue:
         valueInternal: 0.9960269
       PoseValueList: []
@@ -15796,7 +15176,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 0.9885958
+            valueInternal: 0.9907907
           KeyList:
           - Frame:
               valueInternal: 0
@@ -15819,9 +15199,9 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 24
+              valueInternal: 44
             Value:
-              valueInternal: 0.9885958
+              valueInternal: 0.9907907
             InTangent:
               valueInternal: 0
             OutTangent:
@@ -15839,7 +15219,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: 0
+        valueInternal: 9.818474
       ReferencePoseValue:
         valueInternal: 0
       PoseValueList: []
@@ -15906,7 +15286,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 0
+            valueInternal: 9.818474
           KeyList:
           - Frame:
               valueInternal: 0
@@ -15929,9 +15309,9 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 24
+              valueInternal: 44
             Value:
-              valueInternal: 0
+              valueInternal: 9.818474
             InTangent:
               valueInternal: 0
             OutTangent:
@@ -16298,7 +15678,7 @@ MonoBehaviour:
     - valueInternal: 0
     LocalRotationChannelList:
     - CurrentValue:
-        valueInternal: -0.0121165635
+        valueInternal: -0.035743274
       ReferencePoseValue:
         valueInternal: -0.010363759
       PoseValueList: []
@@ -16445,7 +15825,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: -0.0121165635
+            valueInternal: -0.035743274
           KeyList:
           - Frame:
               valueInternal: 0
@@ -16468,13 +15848,13 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 24
+              valueInternal: 44
             Value:
-              valueInternal: -0.0121165635
+              valueInternal: -0.035743274
             InTangent:
-              valueInternal: 0
+              valueInternal: -0
             OutTangent:
-              valueInternal: 0
+              valueInternal: -0
             BrokenTangents:
               valueInternal: 1
             InTangentMode:
@@ -16488,7 +15868,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: 0.28962797
+        valueInternal: 0.2726697
       ReferencePoseValue:
         valueInternal: 0.0012431019
       PoseValueList: []
@@ -16635,7 +16015,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 0.28962797
+            valueInternal: 0.2726697
           KeyList:
           - Frame:
               valueInternal: 0
@@ -16658,13 +16038,13 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 24
+              valueInternal: 44
             Value:
-              valueInternal: 0.28962797
+              valueInternal: 0.2726697
             InTangent:
-              valueInternal: 0
+              valueInternal: -0
             OutTangent:
-              valueInternal: 0
+              valueInternal: -0
             BrokenTangents:
               valueInternal: 1
             InTangentMode:
@@ -16678,7 +16058,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: 0.0042900424
+        valueInternal: -0.012949801
       ReferencePoseValue:
         valueInternal: 0.0076027955
       PoseValueList: []
@@ -16825,7 +16205,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 0.0042900424
+            valueInternal: -0.012949801
           KeyList:
           - Frame:
               valueInternal: 0
@@ -16848,9 +16228,9 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 24
+              valueInternal: 44
             Value:
-              valueInternal: 0.0042900424
+              valueInternal: -0.012949801
             InTangent:
               valueInternal: 0
             OutTangent:
@@ -16868,7 +16248,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: 0.9570534
+        valueInternal: 0.9613567
       ReferencePoseValue:
         valueInternal: 0.9999166
       PoseValueList: []
@@ -17015,7 +16395,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 0.9570534
+            valueInternal: 0.9613567
           KeyList:
           - Frame:
               valueInternal: 0
@@ -17038,9 +16418,9 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 24
+              valueInternal: 44
             Value:
-              valueInternal: 0.9570534
+              valueInternal: 0.9613567
             InTangent:
               valueInternal: 0
             OutTangent:
@@ -17058,7 +16438,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: 0
+        valueInternal: 3.902879
       ReferencePoseValue:
         valueInternal: 0
       PoseValueList: []
@@ -17205,7 +16585,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 0
+            valueInternal: 3.902879
           KeyList:
           - Frame:
               valueInternal: 0
@@ -17228,9 +16608,9 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 24
+              valueInternal: 44
             Value:
-              valueInternal: 0
+              valueInternal: 3.902879
             InTangent:
               valueInternal: 0
             OutTangent:
@@ -17666,26 +17046,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -3.045502
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: -1.3877246
       ReferencePoseValue:
@@ -17856,26 +17216,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -1.3877246
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.96817815
       ReferencePoseValue:
@@ -18028,26 +17368,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0.96817815
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0.96817815
             InTangent:
@@ -18246,26 +17566,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.05097398
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.85174346
       ReferencePoseValue:
@@ -18418,26 +17718,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0.85174346
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0.85174346
             InTangent:
@@ -18626,26 +17906,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.21100672
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.47687697
       ReferencePoseValue:
@@ -18816,26 +18076,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.47687697
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0
       ReferencePoseValue:
@@ -18988,26 +18228,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0
             InTangent:
@@ -19944,26 +19164,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -0.990376
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.010641079
       ReferencePoseValue:
@@ -20116,26 +19316,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0.010641079
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0.010641079
             InTangent:
@@ -20324,26 +19504,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -0.0009965622
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     LocalRotationSelected:
       valueInternal: 0
     RotationModePerClip:
@@ -20355,7 +19515,7 @@ MonoBehaviour:
     - valueInternal: 0
     LocalRotationChannelList:
     - CurrentValue:
-        valueInternal: 0.9811136
+        valueInternal: 0.80501455
       ReferencePoseValue:
         valueInternal: 0.9995618
       PoseValueList: []
@@ -20502,7 +19662,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 0.9811136
+            valueInternal: 0.80501455
           KeyList:
           - Frame:
               valueInternal: 0
@@ -20525,13 +19685,13 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 24
+              valueInternal: 44
             Value:
-              valueInternal: 0.9811136
+              valueInternal: 0.80501455
             InTangent:
-              valueInternal: 0
+              valueInternal: -0
             OutTangent:
-              valueInternal: 0
+              valueInternal: -0
             BrokenTangents:
               valueInternal: 1
             InTangentMode:
@@ -20545,7 +19705,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: -0.018745532
+        valueInternal: 0.14388704
       ReferencePoseValue:
         valueInternal: -0.014074674
       PoseValueList: []
@@ -20692,7 +19852,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: -0.018745532
+            valueInternal: 0.14388704
           KeyList:
           - Frame:
               valueInternal: 0
@@ -20715,9 +19875,9 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 24
+              valueInternal: 44
             Value:
-              valueInternal: -0.018745532
+              valueInternal: 0.14388704
             InTangent:
               valueInternal: 0
             OutTangent:
@@ -20735,7 +19895,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: 0.19116494
+        valueInternal: 0.5753696
       ReferencePoseValue:
         valueInternal: 0.0017027054
       PoseValueList: []
@@ -20882,7 +20042,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 0.19116494
+            valueInternal: 0.5753696
           KeyList:
           - Frame:
               valueInternal: 0
@@ -20905,9 +20065,9 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 24
+              valueInternal: 44
             Value:
-              valueInternal: 0.19116494
+              valueInternal: 0.5753696
             InTangent:
               valueInternal: 0
             OutTangent:
@@ -20925,7 +20085,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: -0.022845317
+        valueInternal: -0.014108982
       ReferencePoseValue:
         valueInternal: -0.025984704
       PoseValueList: []
@@ -21072,7 +20232,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: -0.022845317
+            valueInternal: -0.014108982
           KeyList:
           - Frame:
               valueInternal: 0
@@ -21095,9 +20255,9 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 24
+              valueInternal: 44
             Value:
-              valueInternal: -0.022845317
+              valueInternal: -0.014108982
             InTangent:
               valueInternal: 0
             OutTangent:
@@ -21115,7 +20275,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: 0
+        valueInternal: 52.356396
       ReferencePoseValue:
         valueInternal: 0
       PoseValueList: []
@@ -21262,7 +20422,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 0
+            valueInternal: 52.356396
           KeyList:
           - Frame:
               valueInternal: 0
@@ -21285,9 +20445,9 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 24
+              valueInternal: 44
             Value:
-              valueInternal: 0
+              valueInternal: 52.356396
             InTangent:
               valueInternal: 0
             OutTangent:
@@ -21723,26 +20883,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -3.2247484
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: -0.8781351
       ReferencePoseValue:
@@ -21913,26 +21053,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -0.8781351
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.41961673
       ReferencePoseValue:
@@ -22085,26 +21205,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0.41961673
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0.41961673
             InTangent:
@@ -22303,26 +21403,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.17546128
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.79526734
       ReferencePoseValue:
@@ -22475,26 +21555,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0.79526734
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0.79526734
             InTangent:
@@ -22683,26 +21743,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -0.32495254
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.48080057
       ReferencePoseValue:
@@ -22873,26 +21913,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.48080057
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0
       ReferencePoseValue:
@@ -23045,26 +22065,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0
             InTangent:
@@ -24001,26 +23001,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -0.7303518
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: -0.12530158
       ReferencePoseValue:
@@ -24191,26 +23171,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -0.12530158
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: -0.016870853
       ReferencePoseValue:
@@ -24363,26 +23323,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: -0.016870853
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: -0.016870853
             InTangent:
@@ -24581,26 +23521,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.062894695
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.2905694
       ReferencePoseValue:
@@ -24753,26 +23673,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0.2905694
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0.2905694
             InTangent:
@@ -24961,26 +23861,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.022838568
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.9545118
       ReferencePoseValue:
@@ -25151,26 +24031,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.9545118
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0
       ReferencePoseValue:
@@ -25323,26 +24183,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0
             InTangent:
@@ -25880,26 +24720,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.07539319
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: -0.13398509
       ReferencePoseValue:
@@ -26052,26 +24872,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: -0.13398509
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: -0.13398509
             InTangent:
@@ -26260,26 +25060,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -0.4326134
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.8883747
       ReferencePoseValue:
@@ -26450,26 +25230,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.8883747
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0
       ReferencePoseValue:
@@ -26622,26 +25382,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0
             InTangent:
@@ -26999,26 +25739,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -1.1500982
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: -0.41562545
       ReferencePoseValue:
@@ -27109,26 +25829,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -0.41562545
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.041061845
       ReferencePoseValue:
@@ -27201,26 +25901,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0.041061845
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0.041061845
             InTangent:
@@ -27339,26 +26019,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.7143943
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: -0.22478682
       ReferencePoseValue:
@@ -27431,26 +26091,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: -0.22478682
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: -0.22478682
             InTangent:
@@ -27559,26 +26199,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -0.6483356
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: -0.13701305
       ReferencePoseValue:
@@ -27669,26 +26289,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -0.13701305
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0
       ReferencePoseValue:
@@ -27761,26 +26361,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0
             InTangent:
@@ -31043,7 +29623,7 @@ MonoBehaviour:
       valueInternal: 0
     LocalPositionChannelList:
     - CurrentValue:
-        valueInternal: 6.362937
+        valueInternal: 0.90675515
       ReferencePoseValue:
         valueInternal: 5.749237
       PoseValueList: []
@@ -31190,7 +29770,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 2.4372263
+            valueInternal: 0.90675515
           KeyList:
           - Frame:
               valueInternal: 0
@@ -31213,33 +29793,13 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 6.362937
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 48
+              valueInternal: 23
             Value:
               valueInternal: 6.3629284
             InTangent:
-              valueInternal: -0.0000007463538
+              valueInternal: -0.000000780279
             OutTangent:
-              valueInternal: -0.0000007463538
+              valueInternal: -0.000000780279
             BrokenTangents:
               valueInternal: 0
             InTangentMode:
@@ -31253,9 +29813,9 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 70
+              valueInternal: 44
             Value:
-              valueInternal: 2.4372263
+              valueInternal: 0.90675515
             InTangent:
               valueInternal: 0
             OutTangent:
@@ -31273,7 +29833,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: 5.16931
+        valueInternal: 10.398088
       ReferencePoseValue:
         valueInternal: 1.8338417
       PoseValueList: []
@@ -31443,27 +30003,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 5.16931
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 48
+              valueInternal: 23
             Value:
               valueInternal: 10.398088
             InTangent:
@@ -31483,7 +30023,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 70
+              valueInternal: 44
             Value:
               valueInternal: 10.398088
             InTangent:
@@ -31503,7 +30043,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: -5.761686
+        valueInternal: -3.244585
       ReferencePoseValue:
         valueInternal: -5.9055166
       PoseValueList: []
@@ -31650,7 +30190,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: -2.5602846
+            valueInternal: -3.244585
           KeyList:
           - Frame:
               valueInternal: 0
@@ -31673,27 +30213,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -5.761686
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 48
+              valueInternal: 23
             Value:
               valueInternal: -5.7616916
             InTangent:
@@ -31713,9 +30233,9 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
           - Frame:
-              valueInternal: 70
+              valueInternal: 44
             Value:
-              valueInternal: -2.5602846
+              valueInternal: -3.244585
             InTangent:
               valueInternal: 0
             OutTangent:
@@ -31912,26 +30432,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.51523036
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.5133725
       ReferencePoseValue:
@@ -32084,26 +30584,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0.5133725
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0.5133725
             InTangent:
@@ -32292,26 +30772,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.5114985
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.4575548
       ReferencePoseValue:
@@ -32464,26 +30924,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0.4575548
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0.4575548
             InTangent:
@@ -35366,26 +33806,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -8.869193
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: -0.0004710261
       ReferencePoseValue:
@@ -35476,26 +33896,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -0.0004710261
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: -0.5155336
       ReferencePoseValue:
@@ -35568,26 +33968,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: -0.5155336
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: -0.5155336
             InTangent:
@@ -35786,26 +34166,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -0.0013871712
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: -0.12480339
       ReferencePoseValue:
@@ -35958,26 +34318,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: -0.12480339
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: -0.12480339
             InTangent:
@@ -36166,26 +34506,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.007578879
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.99215204
       ReferencePoseValue:
@@ -36356,26 +34676,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.99215204
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0
       ReferencePoseValue:
@@ -36528,26 +34828,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0
             InTangent:
@@ -36905,26 +35185,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -3.9813838
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.676463
       ReferencePoseValue:
@@ -37015,26 +35275,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.676463
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: -0.025792722
       ReferencePoseValue:
@@ -37107,26 +35347,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: -0.025792722
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: -0.025792722
             InTangent:
@@ -37325,26 +35545,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.76339567
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.2874529
       ReferencePoseValue:
@@ -37497,26 +35697,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0.2874529
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0.2874529
             InTangent:
@@ -37705,26 +35885,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.5695353
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: -0.1011294
       ReferencePoseValue:
@@ -37895,26 +36055,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -0.1011294
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0
       ReferencePoseValue:
@@ -38067,26 +36207,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0
             InTangent:
@@ -39622,26 +37742,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.61707467
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.11816396
       ReferencePoseValue:
@@ -39794,26 +37894,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0.11816396
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0.11816396
             InTangent:
@@ -40002,26 +38082,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.7704786
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.10779614
       ReferencePoseValue:
@@ -40192,26 +38252,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.10779614
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0
       ReferencePoseValue:
@@ -40364,26 +38404,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0
             InTangent:
@@ -41819,26 +39839,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -2.7929661
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: -1.2500122
       ReferencePoseValue:
@@ -42009,26 +40009,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -1.2500122
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: -1.1944982
       ReferencePoseValue:
@@ -42181,26 +40161,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: -1.1944982
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: -1.1944982
             InTangent:
@@ -42399,26 +40359,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.50131845
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.17915684
       ReferencePoseValue:
@@ -42571,26 +40511,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0.17915684
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0.17915684
             InTangent:
@@ -42779,26 +40699,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.81810653
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.21745129
       ReferencePoseValue:
@@ -42969,26 +40869,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.21745129
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0
       ReferencePoseValue:
@@ -43141,26 +41021,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0
             InTangent:
@@ -44696,26 +42556,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.44046918
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: -0.24562062
       ReferencePoseValue:
@@ -44868,26 +42708,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: -0.24562062
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: -0.24562062
             InTangent:
@@ -45076,26 +42896,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.77697843
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.37677753
       ReferencePoseValue:
@@ -45266,26 +43066,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.37677753
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0
       ReferencePoseValue:
@@ -45438,26 +43218,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0
             InTangent:
@@ -46913,26 +44673,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.64586645
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: -0.24710922
       ReferencePoseValue:
@@ -47005,26 +44745,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: -0.24710922
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: -0.24710922
             InTangent:
@@ -47133,26 +44853,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.7035599
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: -0.1636982
       ReferencePoseValue:
@@ -47243,26 +44943,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -0.1636982
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0
       ReferencePoseValue:
@@ -47335,26 +45015,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0
             InTangent:
@@ -48311,26 +45971,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.832994
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.49628782
       ReferencePoseValue:
@@ -48403,26 +46043,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0.49628782
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0.49628782
             InTangent:
@@ -48531,26 +46151,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -0.21975976
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: -0.10736017
       ReferencePoseValue:
@@ -48641,26 +46241,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -0.10736017
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0
       ReferencePoseValue:
@@ -48733,26 +46313,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0
             InTangent:
@@ -52104,26 +49664,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -23.70946
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: -0.6794453
       ReferencePoseValue:
@@ -52214,26 +49754,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -0.6794453
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: -4.1619935
       ReferencePoseValue:
@@ -52306,26 +49826,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: -4.1619935
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: -4.1619935
             InTangent:
@@ -52444,26 +49944,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -0.016303899
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.67735744
       ReferencePoseValue:
@@ -52536,26 +50016,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0.67735744
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0.67735744
             InTangent:
@@ -52664,26 +50124,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: -0.03156092
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0.7347962
       ReferencePoseValue:
@@ -52774,26 +50214,6 @@ MonoBehaviour:
               valueInternal: 0.33333334
             WeightedMode:
               valueInternal: 0
-          - Frame:
-              valueInternal: 24
-            Value:
-              valueInternal: 0.7347962
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 1
-            InTangentMode:
-              valueInternal: 4
-            OutTangentMode:
-              valueInternal: 4
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
     - CurrentValue:
         valueInternal: 0
       ReferencePoseValue:
@@ -52866,26 +50286,6 @@ MonoBehaviour:
           KeyList:
           - Frame:
               valueInternal: 0
-            Value:
-              valueInternal: 0
-            InTangent:
-              valueInternal: 0
-            OutTangent:
-              valueInternal: 0
-            BrokenTangents:
-              valueInternal: 0
-            InTangentMode:
-              valueInternal: 0
-            OutTangentMode:
-              valueInternal: 0
-            InWeight:
-              valueInternal: 0.33333334
-            OutWeight:
-              valueInternal: 0.33333334
-            WeightedMode:
-              valueInternal: 0
-          - Frame:
-              valueInternal: 24
             Value:
               valueInternal: 0
             InTangent:
@@ -58564,7 +55964,7 @@ MonoBehaviour:
       StartFrame:
         valueInternal: 0
       EndFrame:
-        valueInternal: 70
+        valueInternal: 44
       Speed:
         valueInternal: 1
       Loop:
