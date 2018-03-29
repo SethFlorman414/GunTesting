@@ -19,7 +19,7 @@ MonoBehaviour:
     PoseToolPivotMode:
       valueInternal: 0
     PoseToolMode:
-      valueInternal: 2
+      valueInternal: 1
     PoseMirrorMode:
       valueInternal: 0
     ConfigMode:
@@ -31,7 +31,7 @@ MonoBehaviour:
     OpenedClipIndex:
       valueInternal: 5
     SelectedFrame:
-      valueInternal: 44
+      valueInternal: 0
     TimelineViewMode:
       valueInternal: 0
     FramesScrollPosition:
@@ -4211,7 +4211,7 @@ MonoBehaviour:
       valueInternal: 0
     LocalPositionChannelList:
     - CurrentValue:
-        valueInternal: -8.675966
+        valueInternal: -3.2197936
       ReferencePoseValue:
         valueInternal: -5.749237
       PoseValueList: []
@@ -4418,7 +4418,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: -8.675966
+            valueInternal: -3.2197936
           KeyList:
           - Frame:
               valueInternal: 0
@@ -4481,7 +4481,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: 0.06702542
+        valueInternal: -5.1617675
       ReferencePoseValue:
         valueInternal: 1.8338417
       PoseValueList: []
@@ -4688,7 +4688,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 0.06702542
+            valueInternal: -5.1617675
           KeyList:
           - Frame:
               valueInternal: 0
@@ -4751,7 +4751,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: -3.5896444
+        valueInternal: -6.1067514
       ReferencePoseValue:
         valueInternal: -5.9055166
       PoseValueList: []
@@ -4958,7 +4958,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: -3.5896444
+            valueInternal: -6.1067514
           KeyList:
           - Frame:
               valueInternal: 0
@@ -14439,7 +14439,7 @@ MonoBehaviour:
       valueInternal: 0
     LocalPositionChannelList:
     - CurrentValue:
-        valueInternal: -1.3124318
+        valueInternal: -1.2949284
       ReferencePoseValue:
         valueInternal: -1.2175188
       PoseValueList: []
@@ -14506,7 +14506,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: -1.3124318
+            valueInternal: -1.2949284
           KeyList:
           - Frame:
               valueInternal: 0
@@ -14549,7 +14549,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: 0.48354238
+        valueInternal: 0.51897424
       ReferencePoseValue:
         valueInternal: 0.00000008940697
       PoseValueList: []
@@ -14616,7 +14616,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 0.48354238
+            valueInternal: 0.51897424
           KeyList:
           - Frame:
               valueInternal: 0
@@ -14659,7 +14659,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: -0.26197234
+        valueInternal: -0.120676175
       ReferencePoseValue:
         valueInternal: 0.000000037718564
       PoseValueList: []
@@ -14726,7 +14726,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: -0.26197234
+            valueInternal: -0.120676175
           KeyList:
           - Frame:
               valueInternal: 0
@@ -14779,7 +14779,7 @@ MonoBehaviour:
     - valueInternal: 0
     LocalRotationChannelList:
     - CurrentValue:
-        valueInternal: -0.111813016
+        valueInternal: -0.11777784
       ReferencePoseValue:
         valueInternal: 0.08075313
       PoseValueList: []
@@ -14846,7 +14846,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: -0.111813016
+            valueInternal: -0.11777784
           KeyList:
           - Frame:
               valueInternal: 0
@@ -14889,7 +14889,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: -0.016828112
+        valueInternal: 0.068029344
       ReferencePoseValue:
         valueInternal: 0.0034317446
       PoseValueList: []
@@ -14956,7 +14956,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: -0.016828112
+            valueInternal: 0.068029344
           KeyList:
           - Frame:
               valueInternal: 0
@@ -14999,7 +14999,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: 0.07449094
+        valueInternal: 0.06464833
       ReferencePoseValue:
         valueInternal: 0.03738538
       PoseValueList: []
@@ -15066,7 +15066,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 0.07449094
+            valueInternal: 0.06464833
           KeyList:
           - Frame:
               valueInternal: 0
@@ -15109,7 +15109,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: 0.9907907
+        valueInternal: 0.9885958
       ReferencePoseValue:
         valueInternal: 0.9960269
       PoseValueList: []
@@ -15176,7 +15176,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 0.9907907
+            valueInternal: 0.9885958
           KeyList:
           - Frame:
               valueInternal: 0
@@ -15219,7 +15219,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: 9.818474
+        valueInternal: 0
       ReferencePoseValue:
         valueInternal: 0
       PoseValueList: []
@@ -15286,7 +15286,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 9.818474
+            valueInternal: 0
           KeyList:
           - Frame:
               valueInternal: 0
@@ -15678,7 +15678,7 @@ MonoBehaviour:
     - valueInternal: 0
     LocalRotationChannelList:
     - CurrentValue:
-        valueInternal: -0.035743274
+        valueInternal: -0.0121165635
       ReferencePoseValue:
         valueInternal: -0.010363759
       PoseValueList: []
@@ -15825,7 +15825,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: -0.035743274
+            valueInternal: -0.0121165635
           KeyList:
           - Frame:
               valueInternal: 0
@@ -15868,7 +15868,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: 0.2726697
+        valueInternal: 0.28962797
       ReferencePoseValue:
         valueInternal: 0.0012431019
       PoseValueList: []
@@ -16015,7 +16015,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 0.2726697
+            valueInternal: 0.28962797
           KeyList:
           - Frame:
               valueInternal: 0
@@ -16058,7 +16058,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: -0.012949801
+        valueInternal: 0.0042900424
       ReferencePoseValue:
         valueInternal: 0.0076027955
       PoseValueList: []
@@ -16205,7 +16205,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: -0.012949801
+            valueInternal: 0.0042900424
           KeyList:
           - Frame:
               valueInternal: 0
@@ -16248,7 +16248,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: 0.9613567
+        valueInternal: 0.9570534
       ReferencePoseValue:
         valueInternal: 0.9999166
       PoseValueList: []
@@ -16395,7 +16395,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 0.9613567
+            valueInternal: 0.9570534
           KeyList:
           - Frame:
               valueInternal: 0
@@ -16438,7 +16438,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: 3.902879
+        valueInternal: 0
       ReferencePoseValue:
         valueInternal: 0
       PoseValueList: []
@@ -16585,7 +16585,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 3.902879
+            valueInternal: 0
           KeyList:
           - Frame:
               valueInternal: 0
@@ -19515,7 +19515,7 @@ MonoBehaviour:
     - valueInternal: 0
     LocalRotationChannelList:
     - CurrentValue:
-        valueInternal: 0.80501455
+        valueInternal: 0.9811136
       ReferencePoseValue:
         valueInternal: 0.9995618
       PoseValueList: []
@@ -19662,7 +19662,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 0.80501455
+            valueInternal: 0.9811136
           KeyList:
           - Frame:
               valueInternal: 0
@@ -19705,7 +19705,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: 0.14388704
+        valueInternal: -0.018745532
       ReferencePoseValue:
         valueInternal: -0.014074674
       PoseValueList: []
@@ -19852,7 +19852,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 0.14388704
+            valueInternal: -0.018745532
           KeyList:
           - Frame:
               valueInternal: 0
@@ -19895,7 +19895,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: 0.5753696
+        valueInternal: 0.19116494
       ReferencePoseValue:
         valueInternal: 0.0017027054
       PoseValueList: []
@@ -20042,7 +20042,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 0.5753696
+            valueInternal: 0.19116494
           KeyList:
           - Frame:
               valueInternal: 0
@@ -20085,7 +20085,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: -0.014108982
+        valueInternal: -0.022845317
       ReferencePoseValue:
         valueInternal: -0.025984704
       PoseValueList: []
@@ -20232,7 +20232,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: -0.014108982
+            valueInternal: -0.022845317
           KeyList:
           - Frame:
               valueInternal: 0
@@ -20275,7 +20275,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: 52.356396
+        valueInternal: 0
       ReferencePoseValue:
         valueInternal: 0
       PoseValueList: []
@@ -20422,7 +20422,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 52.356396
+            valueInternal: 0
           KeyList:
           - Frame:
               valueInternal: 0
@@ -29623,7 +29623,7 @@ MonoBehaviour:
       valueInternal: 0
     LocalPositionChannelList:
     - CurrentValue:
-        valueInternal: 0.90675515
+        valueInternal: 6.362937
       ReferencePoseValue:
         valueInternal: 5.749237
       PoseValueList: []
@@ -29770,7 +29770,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 0.90675515
+            valueInternal: 6.362937
           KeyList:
           - Frame:
               valueInternal: 0
@@ -29833,7 +29833,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: 10.398088
+        valueInternal: 5.16931
       ReferencePoseValue:
         valueInternal: 1.8338417
       PoseValueList: []
@@ -29980,7 +29980,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 10.398088
+            valueInternal: 5.16931
           KeyList:
           - Frame:
               valueInternal: 0
@@ -30043,7 +30043,7 @@ MonoBehaviour:
             WeightedMode:
               valueInternal: 0
     - CurrentValue:
-        valueInternal: -3.244585
+        valueInternal: -5.761686
       ReferencePoseValue:
         valueInternal: -5.9055166
       PoseValueList: []
@@ -30190,7 +30190,7 @@ MonoBehaviour:
           KeyList: []
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: -3.244585
+            valueInternal: -5.761686
           KeyList:
           - Frame:
               valueInternal: 0
